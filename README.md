@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋 I'm Anran Tao from Shandong, China, currently living in Beijing.
+
+📔 Undergraduate student studying Environmental Chemistry | 💡 Interested in atmospheric chemistry | 👩🏻‍🎓 Double degree in Economics | 📍 College of Environmental Sciences and Engineering & National Development College, Peking University
 
 <!--
 **AnranAria-Tao/AnranAria-Tao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
